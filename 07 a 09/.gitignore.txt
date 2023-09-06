@@ -1,0 +1,4 @@
+node_modules
+packege
+packege-lock
+tsconfig
